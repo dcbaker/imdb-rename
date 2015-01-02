@@ -144,6 +144,5 @@ def main():
             print('Media already correctly formatted: {}'.format(filename))
 
 
-
 if __name__ == '__main__':
     main()
